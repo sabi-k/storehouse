@@ -616,7 +616,8 @@ footer .box-container .box-2 .email{
     margin: .7rem 0;
     padding: 1rem;
     border-radius: .5rem;
-    background: #8e89896b;
+    background: none;
+    border: 2px solid green;
     font-size: 1.6rem;
     color: #fff;
     
