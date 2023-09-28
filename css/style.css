@@ -620,8 +620,10 @@ footer .box-container .box-2 .email{
     background: none;
     border: 2px solid green;
     font-size: 1.6rem;
+    color: #fff;    
+}
+footer .box-container .box-2 .btn{
     color: #fff;
-    
 }
 footer .end{
     text-align: center;
