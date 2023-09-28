@@ -45,15 +45,53 @@
         font-size: 50%;
     }
     .home{
-        min-height: 400px;
-        padding-top: 10rem;
+        min-height: 350px;
+        padding-top: 8rem;
       }
-      .heading{
+      .home .content h2{
         font-size: 2.5rem;
+        padding-top: 2.5rem;
     
       }
+      .home .content img{
+        height: 25rem;
+        width: 30rem;
+        padding: 0;
+    }
+    .home .content .btn{
+      margin-bottom: 7rem;
+    }
+    .box-container{
+      margin-top: 2rem;
+    }
+    .box-container .box{
+      padding: 2rem 1.5rem;
+    }
+    .heading{
+      padding: 1.5rem 0;
+      padding-bottom: 1.5rem;
+      font-size: 3rem;
+      margin-bottom: 3rem;
+  
+  }
+  .categories{
+    gap:2rem;
+    padding-top: 8rem;
+    min-height: 350px;
+    padding-bottom: 5rem;
+}
+.categories .box{
+  margin-left: 0;
+  padding: 2rem 1rem;
+}
+.box-container .blog-box .btn{
+     margin-left: 9rem;
+}
       footer{
         text-align: center;
+      }
+      footer .box-container{
+        padding: 2.5rem;
       }
       footer .end{
         font-size: 1rem;
@@ -63,7 +101,7 @@
        border: none;
     }
     footer .box-container .box-1 .share{
-      text-align: center;
+      margin-left: 8rem;
     }
     .to-top{
       height: 32px;
